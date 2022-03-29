@@ -14,7 +14,9 @@ _Du kan ta bort all text som finns sedan tidigare_.
 - I de fall detta efterfrågas, dela upp delar av ditt svar i för- och nackdelar. Dina för- respektive nackdelar skall vara i form av punktlistor med kortare stycken (3-4 meningar).
 
 Programkod ska se ut som exemplet nedan. Koden måste vara korrekt indenterad då den blir lättare att läsa vilket gör det lättare att hitta syntaktiska fel.
-
+android:text="World Hello!"
+Jag började med att skapa ett nytt skolkonto på github. Tyvärr är med mejl kopplat till min gamla konto vilket innebär jag blev tvungen att skapa nytt mejl specifikt för kursens inlämningar.
+Respository blev forkad från länken som angavs av våran lärare. Texten som är centerat i mitten av appen hade först stringen "Hello World!", Ändrades till "World Hello!"
 ```
 function errorCallback(error) {
     switch(error.code) {
@@ -33,7 +35,7 @@ function errorCallback(error) {
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](WorldHello.PNG)
 
 Läs gärna:
 
